@@ -4,3 +4,9 @@
 *.jpeg
 *.zip
 *.ipynb
+nesy/MNIST/
+nesy/networks
+*__pycache__
+nesy/log
+*.tex
+nesy/snapshot
